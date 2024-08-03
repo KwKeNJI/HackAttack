@@ -12,8 +12,6 @@ dashscope.api_key = 'sk-d17bbcea38d54e13b88a796a80f27c70'
 # Implement database here
 file_path = 'events.csv'
 events_df = pd.read_csv(file_path)
-
-
 events_str = events_df.to_csv(index=False)
 
 # Model to call Qwen
