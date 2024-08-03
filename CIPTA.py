@@ -1,6 +1,5 @@
 # Cultural Immersion Personalised Tourism Algorithm
 
-import os
 import pandas as pd
 import dashscope
 from dashscope import Generation
