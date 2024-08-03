@@ -1,0 +1,49 @@
+event_id,event_name,event_type,location,date,description
+1,Hari Raya Aidilfitri Celebration,Religious,Kuala Lumpur,2024-04-10,"A grand celebration marking the end of Ramadan with prayers, feasting, and cultural performances."
+2,Thaipusam Festival,Religious,Batu Caves,2024-01-24,"A Hindu festival celebrated with a pilgrimage to Batu Caves, involving vibrant rituals and ceremonies."
+3,Wesak Day Procession,Religious,Penang,2024-05-23,"A Buddhist event marked by a procession and various religious activities to celebrate the birth, enlightenment, and death of Buddha."
+4,Gawai Dayak Festival,Cultural,Sarawak,2024-06-01,"A harvest festival celebrated by the Dayak people in Sarawak with traditional music, dances, and food."
+5,Deepavali Festival of Lights,Religious,George Town,2024-11-12,"A major Hindu festival known as the Festival of Lights, celebrated with light displays, prayers, and festive meals."
+6,Lantern Festival,Festival,Malacca,2024-09-14,"A vibrant festival featuring beautiful lantern displays, parades, and cultural performances."
+7,Hungry Ghost Festival,Festival,Kuala Lumpur,2024-08-22,A traditional Chinese festival where offerings are made to appease wandering spirits.
+8,Pesta Kaamatan,Festival,Sabah,2024-05-30,"A harvest festival celebrated by the Kadazan-Dusun people in Sabah with traditional music, dances, and cultural performances."
+9,Chinese New Year,Festival,Penang,2024-02-10,"A major celebration featuring dragon dances, fireworks, and family gatherings to mark the beginning of the lunar new year."
+10,Malaysia Day Celebration,National,Kuala Lumpur,2024-09-16,"A national celebration commemorating the formation of Malaysia, marked by parades, cultural performances, and fireworks."
+11,Hari Gawai,Festival,Sarawak,2024-06-01,"A harvest festival celebrated by the Dayak people in Sarawak with traditional music, dances, and food."
+12,Tadau Kaamatan,Festival,Sabah,2024-05-30,"A harvest festival celebrated by the Kadazan-Dusun people in Sabah with traditional music, dances, and cultural performances."
+13,Mid-Autumn Festival,Festival,Kuala Lumpur,2024-09-14,"A festival celebrated with mooncakes, lanterns, and family gatherings to mark the autumn harvest."
+14,Merdeka Day Parade,National,Putrajaya,2024-08-31,"A national celebration with parades, fireworks, and cultural performances to commemorate Malaysia’s independence."
+15,Christmas Celebration,Festival,Kuala Lumpur,2024-12-25,"A festive celebration with Christmas carols, decorations, and family gatherings."
+16,Hari Raya Haji,Religious,Kuala Lumpur,2024-06-29,"A significant Islamic festival marked by prayers, feasting, and the ritual of animal sacrifice."
+17,Eid al-Adha,Religious,Penang,2024-06-29,"An important Islamic festival involving prayers, feasting, and the sacrifice of animals."
+18,Pongal Festival,Festival,Kuala Lumpur,2024-01-15,"A Tamil harvest festival celebrated with the cooking of Pongal, a sweet rice dish."
+19,Borneo Cultural Festival,Cultural,Sarawak,2024-07-20,"A festival showcasing the diverse cultures of Borneo through music, dance, and traditional crafts."
+20,Sabah Fest,Cultural,Sabah,2024-05-02,"A festival celebrating the cultural heritage of Sabah with performances, crafts, and traditional games."
+21,Malaysia International Gourmet Festival,Gastronomy,Kuala Lumpur,2024-10-01,A food festival featuring gourmet cuisine from top chefs in Malaysia and around the world.
+22,Rainforest World Music Festival,Music,Sarawak,2024-07-12,An international music festival celebrating traditional and contemporary world music.
+23,George Town Festival,Arts,Penang,2024-07-07,"A month-long celebration of art, music, theatre, and dance in the UNESCO World Heritage Site of George Town."
+24,Pesta Pulau Pinang,Festival,Penang,2024-12-01,"An annual carnival featuring cultural performances, food stalls, and amusement rides."
+25,KL International Arts Festival,Arts,Kuala Lumpur,2024-09-01,"A festival showcasing a wide range of artistic disciplines including music, dance, theatre, and visual arts."
+26,Putrajaya Flower and Garden Festival,Festival,Putrajaya,2024-07-28,A festival showcasing beautiful flower displays and garden designs from local and international participants.
+27,Bon Odori Festival,Festival,Shah Alam,2024-07-20,"A Japanese festival featuring traditional Bon Odori dance, music, and food."
+28,Chingay Parade,Parade,Johor Bahru,2024-02-17,"A grand parade featuring colorful floats, lion dances, and cultural performances to celebrate Chinese New Year."
+29,Borneo Jazz Festival,Music,Sarawak,2024-05-11,An annual jazz music festival featuring performances by international and local jazz musicians.
+30,Selangor International Indigenous Arts Festival,Cultural,Shah Alam,2024-08-04,"A festival celebrating the rich cultural heritage of indigenous communities in Selangor through music, dance, and crafts."
+31,Kelantan International Kite Festival,Festival,Kelantan,2024-03-01,"A festival featuring colorful kites from around the world, showcasing the art of kite flying."
+32,Penang Hot Air Balloon Fiesta,Festival,Penang,2024-02-01,"An exciting event with hot air balloons from various countries, offering rides and stunning aerial views."
+33,Melaka Art and Performance Festival,Arts,Melaka,2024-11-01,"A celebration of arts and performances including music, dance, and visual arts in the historic city of Melaka."
+34,Sarawak Regatta,Sport,Sarawak,2024-09-07,"A traditional boat race along the Sarawak River, featuring colorful longboats and cultural performances."
+35,Miri Country Music Festival,Music,Miri,2024-02-23,An annual music festival featuring country music performances from local and international artists.
+36,Sabah Dragon Boat Race,Sport,Sabah,2024-06-15,"A thrilling dragon boat race event, accompanied by cultural performances and festivities."
+37,Terengganu International Squid Jigging Festival,Festival,Terengganu,2024-04-25,A unique festival where participants engage in traditional squid jigging activities along the coast.
+38,Perak Cave Temple Festival,Religious,Perak,2024-08-18,"A religious and cultural festival held at the famous cave temples in Perak, featuring rituals and performances."
+39,Johor Bahru Arts Festival,Arts,Johor Bahru,2024-10-15,"An arts festival showcasing visual arts, theatre, music, and dance in the vibrant city of Johor Bahru."
+40,Langkawi International Maritime and Aerospace Exhibition,Exhibition,Langkawi,2024-03-25,"A major exhibition featuring maritime and aerospace displays, attracting participants and visitors from around the world."
+41,Kelantan International Kite Festival,Festival,Kelantan,2024-03-01,"A festival featuring colorful kites from around the world, showcasing the art of kite flying."
+42,Penang Hot Air Balloon Fiesta,Festival,Penang,2024-02-01,"An exciting event with hot air balloons from various countries, offering rides and stunning aerial views."
+43,Melaka Art and Performance Festival,Arts,Melaka,2024-11-01,"A celebration of arts and performances including music, dance, and visual arts in the historic city of Melaka."
+44,Sarawak Regatta,Sport,Sarawak,2024-09-07,"A traditional boat race along the Sarawak River, featuring colorful longboats and cultural performances."
+45,Miri Country Music Festival,Music,Miri,2024-02-23,An annual music festival featuring country music performances from local and international artists.
+46,Sabah Dragon Boat Race,Sport,Sabah,2024-06-15,"A thrilling dragon boat race event, accompanied by cultural performances and festivities."
+47,Terengganu International Squid Jigging Festival,Festival,Terengganu,2024-04-25,A unique festival where participants engage in traditional squid jigging activities along the coast.
+48,Perak Cave Temple Festival,Religious,Perak,2024-08-18,"A religious and cultural festival held at the famous cave temples in Perak, featuring rituals and performances."
