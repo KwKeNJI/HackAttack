@@ -8,6 +8,6 @@ CIPTA
 
 AIR     
 - Automated Immersion Recommender  
-- Auto tourism schedule planner by PAI
+- Auto-tourism schedule planner by PAI
 
 [Front-End Prototype](https://www.figma.com/design/aFGM0Y8sJypA9wMb7Ylh9T/HA?node-id=0-1&t=3q6H4RWvbebBLSiT-1)
