@@ -1,3 +1,0 @@
-# HackAttack
-
-API: Machine Translation
