@@ -8,6 +8,7 @@ import csv
 # year = int(input("Year: "))
 # month = int(input("Month: "))
 
+# Extract events in July 2024
 year = 2024
 month = 7
 
