@@ -1,0 +1,6 @@
+pandas
+dashscope
+requests
+bs4
+html5lib
+flask
